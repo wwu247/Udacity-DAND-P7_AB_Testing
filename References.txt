@@ -1,0 +1,6 @@
+REFERENCES
+
+Udacity A/B Testing
+Udacity Discussion Forums
+Sample Sizing (http://www.evanmiller.org/ab-testing/sample-size.html)
+p-value calculation (http://graphpad.com/quickcalcs/binomial1.cfm)
